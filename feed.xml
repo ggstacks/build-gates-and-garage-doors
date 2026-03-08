@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Build Gates and Garage Doors - Electric Gate Repair News</title>
+    <link>https://{username}.github.io/{repo}</link>
+    <description>Latest electric gate repair news and tips from Build Gates and Garage Doors in Spring Valley, California.</description>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 06 Mar 2026 20:15:35 GMT</lastBuildDate>
+    <atom:link href="https://{username}.github.io/{repo}/feed.xml" rel="self" type="application/rss+xml"/>
+    <managingEditor>buildgatesandgarage@gmail.com (Build Gates and Garage Doors)</managingEditor>
+    <webMaster>buildgatesandgarage@gmail.com (Build Gates and Garage Doors)</webMaster>
+    
+  </channel>
+</rss>
